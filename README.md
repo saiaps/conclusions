@@ -36,4 +36,6 @@ That can be asking a lot of future-you and future-other-people, after the knowle
 It is a commitment, then, to introduce a new programming language into mission-critical software (production, or operational tools that enable production).
 Be prepared to parent this code, or throw it away.
 
+A choice of language system is about who we want to work with. The community, and within our organization. Make a clean API, and then use automation to make the right things easy, welcoming other people into collaboration.
+keep the workspace clean and welcoming.
  
